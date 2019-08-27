@@ -1,6 +1,6 @@
 image-background-function
 =========================
-This package has one function in it called (image-background) as arguments it takes in an image, style of of background(solid or outline) string and a color string
+This package has one function in it called (image-background) as arguments it takes in an image, style of background(solid or outline) string and a color string
 
 the function is called "image-background"
 you require "2htdp/image" and "image-background-function/main"
