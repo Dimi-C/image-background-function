@@ -6,9 +6,9 @@ the function is called "image-background"
 you require "2htdp/image" and "image-background-function/main"
 
 Code examples
-.md
+<addr>
 #lang racket
 (require 2htdp/image)
 (require image-background-function/main)
 (image-background (text "test" 24 "blue") "outline" "red")
-.md
+<addr>
