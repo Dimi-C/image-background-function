@@ -16,4 +16,6 @@ Code examples
 (image-background (text "test" 24 "blue") "outline" "red")
 
 (image-background (triangle 20 "outline" "blue") "outline" "red")
+
+(image-background (image) "style" "color")
 ````
