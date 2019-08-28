@@ -1,0 +1,1 @@
+("7.4" racket ("63bee412d223f067926e3aac8d6cc977fdaed545" . "384defe6bb932af30733a651e509cf0cc9aeef5d") #"/Users/dimitricollas/Desktop/image-background-function/background-image-func.rkt" (collects #"2htdp" #"image.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
