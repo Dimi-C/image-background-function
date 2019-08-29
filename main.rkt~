@@ -1,6 +1,6 @@
 #lang racket
 
-(provide (all-from-out "background-image-func.rkt"))
+(provide all-defined-out)
 (require "background-image-func.rkt")
 (require 2htdp/image)
   
